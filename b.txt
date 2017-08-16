@@ -1,1 +1,2 @@
 My new file from master
+editing the file
